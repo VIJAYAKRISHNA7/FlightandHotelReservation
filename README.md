@@ -33,7 +33,7 @@ A simple Java console-based application developed by **Vijayakrishna R**.
 
 **Steps:**
 1. Clone the Repository:
-git clone https://github.com/VIJAYAKRISHNA7/FlightReservation.git
+git clone https://github.com/VIJAYAKRISHNA7/FlightandHotelReservation.git
 cd FlightReservation
 
 mathematica
