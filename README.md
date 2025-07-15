@@ -1,10 +1,15 @@
-<h1 align="center">✈️ Flight & Hotel Reservation System 🏨</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBhZDI0Njc2OTkxN2ZlMTc3OGU4NDY5MzQ4NzE4YjQ0MTQzMDA4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gw3oU7yzm6Oik/giphy.gif" alt="Flight Hotel Animation" width="400">
-</p>
 
----
+  ✈️ 〰️〰️〰️ Flight & Hotel Reservation System 〰️〰️〰️ 🏨  
+  ╔══════════════════════════════════════════════════╗  
+  ║   Welcome to the Booking Console Application!    ║  
+  ║        Developed by Vijayakrishna R.             ║  
+  ╚══════════════════════════════════════════════════╝  
+  [ Initializing System... ]  
+  [ Loading: Flights ✈️  Hotels 🏨  Cancel Options 🔐 ]  
+  [ Ready ✅ ]  
+
+</p>
 
 ## 📖 Project Overview
 
