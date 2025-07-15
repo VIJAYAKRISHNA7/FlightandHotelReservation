@@ -53,7 +53,7 @@ Edit
 ### ✅ Option 2: Using an IDE (Eclipse, IntelliJ, VS Code)
 
 1. **Download This Project**
-- Visit: [https://github.com/VIJAYAKRISHNA7/FlightReservation](https://github.com/VIJAYAKRISHNA7/FlightReservation)
+- Visit: [https://github.com/VIJAYAKRISHNA7/FlightandHotelReservation](https://github.com/VIJAYAKRISHNA7/FlightandHotelReservation)
 - Click **Code → Download ZIP**
 - Extract the ZIP file.
 
